@@ -15,20 +15,11 @@ This a group project focused on implementing external sorting for CSV files. The
 
 ## How to run
 
-### Compilation
-
 ```
- g++ -Wall ./main.cpp -o exec.exe
+  g++ -Wall ./(file_name).cpp -o exec.exe
+./exec
 ```
-
-### Execution
-
-```
- g++ -Wall ./main.cpp -o exec.exe
-```
-
 ## Contributors
 
 [Frederico Maia](https://github.com/fredmaia)<br>
 [Gabriel Ferreira](https://github.com/Ferreira327)<br>
-[Guilherme Azevedo](https://github.com/Gui-L-Azevedo)
